@@ -2,7 +2,9 @@
 
 ### Info
 
-This is the TickShift exploit. It is an exploit that works on almost all Minecraft servers, **_Feel free to skid this into your client if you wish._**
+ **_Feel free to skid this into your client if you wish. However you MUST credit me in the file or in the project if you do please._**
+
+This is the TickShift exploit. It is an exploit that works on almost all Minecraft servers.
 
 The way it works is by increasing the client-side tick speed of the player for a certain amount of time, usually small, then setting the client tick speed back to normal. Think of it almost like a speed boost for a few moments.
 
