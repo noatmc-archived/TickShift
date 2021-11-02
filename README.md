@@ -2,7 +2,7 @@
 
 ### Info
 
- **_Feel free to skid this into your client if you wish. However you MUST credit me in the file or in the project if you do please._**
+ **_Feel free to skid this into your client if you wish. However I would appreciate it if you credit me in the file or in the project._**
 
 This is the TickShift exploit. It is an exploit that works on almost all Minecraft servers.
 
@@ -16,9 +16,9 @@ The tick shift exploit was originally in a client called Future. It was in the b
 
 ### Explination
 
-A little while ago noatmc, Codex, and Doogie13 made a recreation of it. The recreation was very bad, the code was chinese, it lacked a lot of functionality etc. However, it had the basic idea. However, I, HausemasterIssue decided to step in and completley rewrite the exploit by myself.
+A little while ago noatmc, Codex, and Doogie13 made a recreation of it. Credits to them for providing the original idea on how to exploit works. However, I, HausemasterIssue decided to step in and completley rewrite the exploit by myself.
 
-Now, it works much better and is exactly what I dreamed it would be. Of course I'm not saying my code is perfect. In fact I _strongly_ encourage you to expand upon my code and this exploit as much as you like.
+Now, it works much better and is exactly what I dreamed it would be. Of course I'm not saying my code is perfect. In fact, my code is still missing a bit of functionality and things, and I will work on improving it. I _strongly_ encourage you to expand upon my code and this exploit as much as you like.
 
 HausemasterIssue 2021
 
