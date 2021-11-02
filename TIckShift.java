@@ -25,26 +25,26 @@ public class TickShift extends Module {
     // the method that gets called when the module is enabled
     public void onEnable() {
         // multiply the tickspeed of the client by the multiplier
-	      mc.timer.tickLength = ((float)(50.0 / multiplier.getValue()));
+	mc.timer.tickLength = ((float)(50.0 / multiplier.getValue()));
     }
 	
     // the method that gets called once every game update (1 tick)
     public void onUpdate() {
-        // everytime a tick passes update the amount of ticks passed
-	      ticksPassed++;
+         // everytime a tick passes update the amount of ticks passed
+	 ticksPassed++;
 	    
         // if the amount of ticks passed is greater than or equal to the amount of ticks that need to pass for the module to disable, disable the module (duh)
-	      if(ticksPassed >= disableTicks.getValue()) {
-		        ticksPassed = 0;
-            // disable the module
-		        disable();	
-	      }
+	if(ticksPassed >= disableTicks.getValue()) {
+	    	ticksPassed = 0;
+            	// disable the module
+		disable();	
+	 }
     }
 	  
     // the method that gets called when the module is disabled
     public void onDisable() {
         // set the client tick length back to the default
-	      mc.timer.tickLength = 50f;    
+    	mc.timer.tickLength = 50f;    
     }
   
 
