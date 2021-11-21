@@ -14,7 +14,7 @@ However, there are some disadvantages to using it. When you speed up the tick sp
 
 The tick shift exploit was originally in a client called Future. It was in the beta version of it. Future client is **not open source** which means you couldn't really dive into the code and look at it, instead, we had to recreate it.
 
-### Expectation
+### Explantations
 
 A little while ago noatmc, Codex, and Doogie13 made a recreation of it. Credits to them for providing the original idea on how to exploit works. However, I, HausemasterIssue decided to step in and completley rewrite the exploit by myself.
 
